@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609030222136",
+    "project_id": "kotobekiamobile",
+    "storage_bucket": "kotobekiamobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609030222136:android:56b15c3914553b322e91cd",
+        "android_client_info": {
+          "package_name": "com.kotobekia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCktMejyLJZyYPT3SgTQI34h7p1Xk4mV8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
